@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @specksdude
 - 👀 I’m interested in Computer science and learning new skills
-- 🌱 I’m currently learning C Programming, DSA, Fullstack web dev
+- 🌱 I’m currently learning C Programming, DSA, Fullstack web dev and Flutter
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me chamuditha484@gmail.com
 - Visit my blog https://specksdude.ml where I document about my learning experience 
